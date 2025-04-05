@@ -3,23 +3,18 @@
 
 [![Email](https://img.shields.io/badge/Email-swarajit19082003%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:swarajit19082003@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Swarajit_Dey-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/swarajit-dey-758b84222/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow_Me-1DA1F2?style=flat&logo=twitter)](https://x.com/Swarajitdey4)   
+[![Twitter](https://img.shields.io/badge/Twitter-Follow_Me-1DA1F2?style=flat&logo=twitter)]([https://twitter.com/yourhandle](https://x.com/Swarajitdey4))   
 
-<!-- Animated typing SVG with more effects -->
+<!-- Animated divider -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=22F729&width=435&lines=Building+the+future+with+code+%F0%9F%92%BB;Turning+ideas+into+reality+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;AI+Enthusiast+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%9B%A0;Open+to+collaborations+%F0%9F%92%AC" alt="Typing SVG" />
-</div>
-
-<!-- Animated wave divider -->
-<div align="center">
-  <img src="https://github.com/Sd2k3/Sd2k3/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F729&width=435&lines=Building+the+future+with+code+%F0%9F%92%BB;Turning+ideas+into+reality+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;AI+Enthusiast+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%9B%A0" alt="Typing SVG" />
 </div>
 
 ### **🔥 Tech Stack**  
 
 <!-- Animated tech stack with icons -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,tailwind,py,tensorflow,arduino,raspberrypi,figma,xd,js,ts,nextjs,express,firebase,aws,gcp&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,tailwind,py,tensorflow,arduino,raspberrypi,figma,xd&theme=dark&perline=5" />
 </div>
 
 #### **🌐 Web Development**  
@@ -41,37 +36,12 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)  
 
-<!-- Tetris Game -->
-<div align="center">
-  <h3>🎮 Play Tetris while exploring my profile!</h3>
-  <img src="https://raw.githubusercontent.com/Sd2k3/Sd2k3/main/tetris.gif" alt="Tetris Game" width="300"/>
-</div>
-
-<!-- Matrix Rain Animation -->
-<div align="center">
-  <h3>💻 Matrix Code Rain</h3>
-  <img src="https://raw.githubusercontent.com/Sd2k3/Sd2k3/main/matrix.gif" alt="Matrix Rain" width="400"/>
-</div>
-
 ---
 
 ### **📊 GitHub Stats**  
-<!-- Animated GitHub Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sd2k3&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&line_height=24" alt="Swarajit's GitHub Stats" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sd2k3&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
+![Swarajit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sd2k3&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)  
 
-<!-- GitHub Streak Stats -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sd2k3&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<!-- 3D Contribution Graph -->
-<div align="center">
-  <h3>📈 3D Contribution Graph</h3>
-  <img src="https://github-profile-3d.herokuapp.com/profile/Sd2k3?theme=dracula&color=7F00FF&bg_color=0D1117" alt="3D Contribution Graph" width="800"/>
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sd2k3&layout=compact&theme=radical&hide_border=true)  
 
 ---
 
@@ -81,9 +51,21 @@
 ✨ **Proven Impact:** 89% improvement in memory recall | 72% reduction in safety incidents  
 🛠 **Tech Stack:** React, Node.js, TensorFlow, and innovative AI algorithms  
 
-<!-- Project GIF -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Sd2k3/Sd2k3/main/project-demo.gif" alt="Project Demo" width="600"/>
-</div>
 
 ---
+
+### **📫 Let’s Collaborate!**  
+- 💡 **Passionate About:** AI-driven healthcare solutions, IoT innovations, and accessible design  
+- 📧 **Email:** [swarajit19082003@gmail.com](mailto:swarajit19082003@gmail.com)  
+- 🔗 **LinkedIn:** [Let's connect!](https://www.linkedin.com/in/swarajit-dey-758b84222/)  
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Sd2k3&label=Profile%20Views&color=blue&style=flat)  
+
+**"Code is poetry. Build something amazing today!"** ✨ 
+
+
+
+keeping everything intact can you add some games, and cool animations
+give me everything in code format
