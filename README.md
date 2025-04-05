@@ -65,7 +65,3 @@
 
 **"Code is poetry. Build something amazing today!"** ✨ 
 
-
-
-keeping everything intact can you add some games, and cool animations
-give me everything in code format
