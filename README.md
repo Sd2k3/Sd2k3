@@ -49,7 +49,7 @@
 
 ### **🚀 Featured Project**  
 #### **[NEURONEST: AI-Powered Dementia Care Platform](https://pinky-umber.vercel.app/)**  
-🏆 **Code-e-Manipal Hackathon Winner** (Top team among 1500+ participants)  
+🏆 **Code-e-Manipal Hackathon Winner** (1st among 1500+ teams)  
 ✨ **Proven Impact:** 89% improvement in memory recall | 72% reduction in safety incidents  
 🛠 **Tech Stack:** React, Node.js, TensorFlow, and innovative AI algorithms  
 
