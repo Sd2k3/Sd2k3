@@ -1,0 +1,20 @@
+name: Update Snake Game
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Updates daily at midnight (UTC)
+  workflow_dispatch:      # Lets you manually run it
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Platane/snk@master
+        with:
+          github_user_name: Sd2k3  # Your username!
+          svg_path: output/github-contribution-grid-snake.svg
+      - uses: actions-js/push@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
