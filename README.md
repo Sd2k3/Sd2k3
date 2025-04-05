@@ -65,3 +65,136 @@
 
 **"Code is poetry. Build something amazing today!"** ✨ 
 
+---
+
+Here's a simple Snake game you can play:
+
+<div>
+  <svg id="snake-game" width="200" height="200"></svg>
+  <div>
+    <button id="start-btn" onclick="startGame()">Start Game</button>
+    <div id="score">Score: 0</div>
+  </div>
+</div>
+
+<script>
+  const svg = document.getElementById('snake-game');
+  const scoreDisplay = document.getElementById('score');
+  const startBtn = document.getElementById('start-btn');
+  
+  const gridSize = 20;
+  const tileSize = 10;
+  let snake = [{x: 10, y: 10}];
+  let food = {x: 5, y: 5};
+  let direction = 'right';
+  let gameInterval;
+  let score = 0;
+  
+  function draw() {
+    // Clear SVG
+    svg.innerHTML = '';
+    
+    // Draw snake
+    snake.forEach(segment => {
+      const rect = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
+      rect.setAttribute('x', segment.x * tileSize);
+      rect.setAttribute('y', segment.y * tileSize);
+      rect.setAttribute('width', tileSize);
+      rect.setAttribute('height', tileSize);
+      rect.setAttribute('fill', '#00ff00');
+      svg.appendChild(rect);
+    });
+    
+    // Draw food
+    const foodRect = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
+    foodRect.setAttribute('x', food.x * tileSize);
+    foodRect.setAttribute('y', food.y * tileSize);
+    foodRect.setAttribute('width', tileSize);
+    foodRect.setAttribute('height', tileSize);
+    foodRect.setAttribute('fill', '#ff0000');
+    svg.appendChild(foodRect);
+  }
+  
+  function update() {
+    const head = {...snake[0]};
+    
+    // Move head
+    switch(direction) {
+      case 'up': head.y--; break;
+      case 'down': head.y++; break;
+      case 'left': head.x--; break;
+      case 'right': head.x++; break;
+    }
+    
+    // Check wall collision
+    if (head.x < 0 || head.x >= gridSize || head.y < 0 || head.y >= gridSize) {
+      gameOver();
+      return;
+    }
+    
+    // Check self collision
+    if (snake.some(segment => segment.x === head.x && segment.y === head.y)) {
+      gameOver();
+      return;
+    }
+    
+    // Add new head
+    snake.unshift(head);
+    
+    // Check food collision
+    if (head.x === food.x && head.y === food.y) {
+      score++;
+      scoreDisplay.textContent = `Score: ${score}`;
+      placeFood();
+    } else {
+      // Remove tail if no food eaten
+      snake.pop();
+    }
+    
+    draw();
+  }
+  
+  function placeFood() {
+    food = {
+      x: Math.floor(Math.random() * gridSize),
+      y: Math.floor(Math.random() * gridSize)
+    };
+    
+    // Make sure food doesn't spawn on snake
+    while (snake.some(segment => segment.x === food.x && segment.y === food.y)) {
+      food = {
+        x: Math.floor(Math.random() * gridSize),
+        y: Math.floor(Math.random() * gridSize)
+      };
+    }
+  }
+  
+  function gameOver() {
+    clearInterval(gameInterval);
+    startBtn.style.display = 'block';
+    alert(`Game Over! Your score: ${score}`);
+  }
+  
+  function startGame() {
+    snake = [{x: 10, y: 10}];
+    direction = 'right';
+    score = 0;
+    scoreDisplay.textContent = `Score: ${score}`;
+    placeFood();
+    startBtn.style.display = 'none';
+    draw();
+    
+    gameInterval = setInterval(update, 100);
+  }
+  
+  // Keyboard controls
+  document.addEventListener('keydown', e => {
+    switch(e.key) {
+      case 'ArrowUp': if (direction !== 'down') direction = 'up'; break;
+      case 'ArrowDown': if (direction !== 'up') direction = 'down'; break;
+      case 'ArrowLeft': if (direction !== 'right') direction = 'left'; break;
+      case 'ArrowRight': if (direction !== 'left') direction = 'right'; break;
+    }
+  });
+</script>
+
