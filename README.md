@@ -3,7 +3,7 @@
 
 [![Email](https://img.shields.io/badge/Email-swarajit19082003%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:swarajit19082003@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Swarajit_Dey-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/swarajit-dey-758b84222/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow_Me-1DA1F2?style=flat&logo=twitter)](https://twitter.com/yourhandle) *(Add your Twitter link)*  
+[![Twitter](https://img.shields.io/badge/Twitter-Follow_Me-1DA1F2?style=flat&logo=twitter)]([https://twitter.com/yourhandle](https://x.com/Swarajitdey4))   
 
 ---
 
@@ -30,30 +30,28 @@
 ---
 
 ### **📊 GitHub Stats**  
-![Swarajit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swarajit1908&show_icons=true&theme=radical&hide_border=true)  
+![Swarajit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sd2k3&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Swarajit1908&layout=compact&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sd2k3&layout=compact&theme=radical&hide_border=true)  
 
 ---
 
-### **🚀 Featured Projects**  
-1. **[AI-Powered Web App](https://github.com/Swarajit1908/repo)**  
-   - *A full-stack AI-integrated web application using React & Python Flask.*  
+### **🚀 Featured Project**  
+#### **[NEURONEST: AI-Powered Dementia Care Platform](https://pinky-umber.vercel.app/)**  
+🏆 **Code-e-Manipal Hackathon Winner** (Top team among 1500+ participants)  
+✨ **Proven Impact:** 89% improvement in memory recall | 72% reduction in safety incidents  
+🛠 **Tech Stack:** React, Node.js, TensorFlow, and innovative AI algorithms  
 
-2. **[Smart IoT Device](https://github.com/Swarajit1908/repo)**  
-   - *An Arduino/RPi-based IoT project with cloud connectivity.*  
-
-*(Replace with your actual projects!)*  
 
 ---
 
 ### **📫 Let’s Collaborate!**  
-- 💡 **Interested in:** AI-driven web apps, IoT innovations, and UI/UX design.  
+- 💡 **Passionate About:** AI-driven healthcare solutions, IoT innovations, and accessible design  
 - 📧 **Email:** [swarajit19082003@gmail.com](mailto:swarajit19082003@gmail.com)  
-- 🔗 **LinkedIn:** [Swarajit Dey](https://www.linkedin.com/in/swarajit-dey-758b84222/)  
+- 🔗 **LinkedIn:** [Let's connect!](https://www.linkedin.com/in/swarajit-dey-758b84222/)  
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Swarajit1908&label=Profile%20Views&color=blue&style=flat)  
+![Visitor Count](https://komarev.com/ghpvc/?username=Sd2k3&label=Profile%20Views&color=blue&style=flat)  
 
-**"Code is poetry. Build something amazing today!"** ✨  
+**"Code is poetry. Build something amazing today!"** ✨ 
