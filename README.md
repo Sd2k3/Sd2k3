@@ -1,16 +1,59 @@
-## Hi there 👋
+# **Namaste** 🙏, I'm Swarajit Dey!  
+**🚀 Full-Stack Developer | AI/ML & GenAI Enthusiast | IoT Explorer | UI/UX Designer**  
 
-<!--
-**Sd2k3/Sd2k3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Email](https://img.shields.io/badge/Email-swarajit19082003%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:swarajit19082003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Swarajit_Dey-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/swarajit-dey-758b84222/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow_Me-1DA1F2?style=flat&logo=twitter)](https://twitter.com/yourhandle) *(Add your Twitter link)*  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **🔥 Tech Stack**  
+#### **🌐 Web Development**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+
+#### **🤖 AI/ML & Generative AI**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)  
+
+#### **⚡ IoT & Others**  
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)  
+
+#### **🎨 UI/UX Design**  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)  
+
+---
+
+### **📊 GitHub Stats**  
+![Swarajit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swarajit1908&show_icons=true&theme=radical&hide_border=true)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Swarajit1908&layout=compact&theme=radical&hide_border=true)  
+
+---
+
+### **🚀 Featured Projects**  
+1. **[AI-Powered Web App](https://github.com/Swarajit1908/repo)**  
+   - *A full-stack AI-integrated web application using React & Python Flask.*  
+
+2. **[Smart IoT Device](https://github.com/Swarajit1908/repo)**  
+   - *An Arduino/RPi-based IoT project with cloud connectivity.*  
+
+*(Replace with your actual projects!)*  
+
+---
+
+### **📫 Let’s Collaborate!**  
+- 💡 **Interested in:** AI-driven web apps, IoT innovations, and UI/UX design.  
+- 📧 **Email:** [swarajit19082003@gmail.com](mailto:swarajit19082003@gmail.com)  
+- 🔗 **LinkedIn:** [Swarajit Dey](https://www.linkedin.com/in/swarajit-dey-758b84222/)  
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Swarajit1908&label=Profile%20Views&color=blue&style=flat)  
+
+**"Code is poetry. Build something amazing today!"** ✨  
