@@ -5,9 +5,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Swarajit_Dey-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/swarajit-dey-758b84222/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow_Me-1DA1F2?style=flat&logo=twitter)]([https://twitter.com/yourhandle](https://x.com/Swarajitdey4))   
 
-### 🎧 Now Playing on Spotify
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31fmrmq3oyfw3lxkqimhw5ri5ywi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31fmrmq3oyfw3lxkqimhw5ri5ywi)
 
 
 
