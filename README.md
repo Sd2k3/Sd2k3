@@ -9,6 +9,8 @@
 
 
 
+### 🐍 Play Snake with My Contributions!
+[![GitHub Snake Light](https://github.com/Sd2k3/Sd2k3/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)](https://github.com/Sd2k3)
 
 
 <!-- Animated divider -->
