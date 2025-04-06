@@ -22,8 +22,10 @@
 
 <!-- Animated tech stack with icons -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,tailwind,py,tensorflow,arduino,raspberrypi,figma,xd&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=html,react,nodejs,mongodb,tailwind,py,tensorflow,arduino,raspberrypi,figma,xd,c,cpp,gcp,aws,twilio&theme=dark&perline=5" />
 </div>
+
+
 
 #### **🌐 Web Development**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
