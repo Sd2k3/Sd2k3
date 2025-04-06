@@ -7,10 +7,6 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sd2k3&theme=github-compact)
 
-### 🌍 Visitor Map
-
-[![Visitor Map](https://www.clustrmaps.com/map_v2.png?d=SLYwtdoGc4JOImehDlcs7qF9rjc6yThUahB_yZzQrbk&cl=ffffff)](https://clustrmaps.com/site/1c5d1)
-
 
 
 
@@ -96,7 +92,11 @@
 - 🔗 **LinkedIn:** [Let's connect!](https://www.linkedin.com/in/swarajit-dey-758b84222/)  
 
 ---
+### 🌍 Visitor Map
 
+[![Visitor Map](https://www.clustrmaps.com/map_v2.png?d=SLYwtdoGc4JOImehDlcs7qF9rjc6yThUahB_yZzQrbk&cl=ffffff)](https://clustrmaps.com/site/1c5d1)
 ![Visitor Count](https://komarev.com/ghpvc/?username=Sd2k3&label=Profile%20Views&color=blue&style=flat)  
 
-**"Code is poetry. Build something amazing today!"** ✨ 
+**"Code is poetry. Build something amazing today!"** ✨    
+
+
