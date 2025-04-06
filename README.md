@@ -7,18 +7,12 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sd2k3&theme=github-compact)
 
-
-
-### 🐍 Play Snake with My Contributions!
-[![GitHub Snake Light](https://github.com/Sd2k3/Sd2k3/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)](https://github.com/Sd2k3)
-
-
 <!-- Animated divider -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F729&width=435&lines=Building+the+future+with+code+%F0%9F%92%BB;Turning+ideas+into+reality+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;AI+Enthusiast+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%9B%A0" alt="Typing SVG" />
 </div>
 
-
+---
 
 ### **🔥 Tech Stack**  
 
@@ -83,7 +77,10 @@
 
 
 ---
+### 🔝 Top Contributed Repositories
 
+![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=Sd2k3&limit=5&theme=dark&combine_all_yearly_contributions=true)
+---
 ### **📫 Let’s Collaborate!**  
 - 💡 **Passionate About:** AI-driven healthcare solutions, IoT innovations, and accessible design  
 - 📧 **Email:** [swarajit19082003@gmail.com](mailto:swarajit19082003@gmail.com)  
