@@ -18,6 +18,7 @@
 
 ---
 
+
 ### **🔥 Tech Stack**  
 
 <!-- Animated tech stack with icons -->
@@ -45,6 +46,13 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)  
 
 ---
+
+### 💬 Dev Wisdom of the Day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+
 ### **📊 GitHub Stats**  
 
 <div align="center">
