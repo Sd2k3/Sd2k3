@@ -39,11 +39,29 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)  
 
 ---
-
 ### **📊 GitHub Stats**  
-![Swarajit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sd2k3&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sd2k3&layout=compact&theme=radical&hide_border=true)  
+<div align="center">
+  <!-- First Row: GitHub Stats and GitHub Streak side by side -->
+  <div style="display: flex; justify-content: center; width: 100%; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sd2k3&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sd2k3&theme=radical&hide_border=true" width="51%" />
+  </div>
+
+  <!-- Second Row: GitHub Trophies -->
+  <div style="margin-top: 20px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=Sd2k3&theme=flat&row=2&column=3&margin-w=10&margin-h=10" width="60%" />
+  </div>
+
+  <!-- Third Row: Top Languages -->
+  <div style="margin-top: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sd2k3&layout=compact&theme=radical&hide_border=true&langs_count=6" width="30%" />
+  </div>
+</div>
+
+
+
+
 
 ---
 
