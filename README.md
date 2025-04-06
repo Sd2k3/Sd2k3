@@ -5,6 +5,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Swarajit_Dey-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/swarajit-dey-758b84222/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow_Me-1DA1F2?style=flat&logo=twitter)]([https://twitter.com/yourhandle](https://x.com/Swarajitdey4))   
 
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31fmrmq3oyfw3lxkqimhw5ri5ywi&cover_image=true&theme=novatorem&show_offline=true)](https://open.spotify.com/user/31fmrmq3oyfw3lxkqimhw5ri5ywi)
+
+
 <!-- Animated divider -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F729&width=435&lines=Building+the+future+with+code+%F0%9F%92%BB;Turning+ideas+into+reality+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;AI+Enthusiast+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%9B%A0" alt="Typing SVG" />
