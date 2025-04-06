@@ -7,6 +7,8 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sd2k3&theme=github-compact)
 
+
+
 <!-- Animated divider -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F729&width=435&lines=Building+the+future+with+code+%F0%9F%92%BB;Turning+ideas+into+reality+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;AI+Enthusiast+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%9B%A0" alt="Typing SVG" />
@@ -65,7 +67,9 @@
 
 
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=2000&color=7CFC00&center=true&vCenter=true&width=500&lines=Innovation+drives+everything.;Think.+Code.+Impact.;Building+AI+that+matters." alt="Typing SVG" />
+</p>
 
 ---
 
