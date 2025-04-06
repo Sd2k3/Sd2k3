@@ -1,4 +1,5 @@
-# **Namaste** 🙏, I'm Swarajit Dey!  
+# **Namaste** 🙏, I'm Swarajit Dey! 
+
 **🚀 Full-Stack Developer | AI/ML & GenAI Enthusiast | IoT Explorer | UI/UX Designer**  
 
 [![Email](https://img.shields.io/badge/Email-swarajit19082003%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:swarajit19082003@gmail.com)
@@ -23,8 +24,6 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,react,nodejs,mongodb,tailwind,py,tensorflow,arduino,raspberrypi,figma,xd,c,cpp,gcp,aws,twilio&theme=dark&perline=5" />
 </div>
-
-
 
 #### **🌐 Web Development**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -85,6 +84,7 @@
 ### 🔝 Top Contributed Repositories
 
 ![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=Sd2k3&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ---
 ### **📫 Let’s Collaborate!**  
 - 💡 **Passionate About:** AI-driven healthcare solutions, IoT innovations, and accessible design  
