@@ -5,7 +5,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Swarajit_Dey-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/swarajit-dey-758b84222/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow_Me-1DA1F2?style=flat&logo=twitter)]([https://twitter.com/yourhandle](https://x.com/Swarajitdey4))   
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sd2k3&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sd2k3&theme=github-compact)
+
 
 
 
