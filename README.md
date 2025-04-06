@@ -98,5 +98,17 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=Sd2k3&label=Profile%20Views&color=blue&style=flat)  
 
 **"Code is poetry. Build something amazing today!"** ✨    
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80"/>
+  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="80"/>
+  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI5/giphy.gif" width="80"/>
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="80"/>
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="80"/> <!-- Typing -->
+  <img src="https://media.giphy.com/media/xT0Gqz4bL4q8ZpLJHM/giphy.gif" width="80"/> <!-- Hello World -->
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="80"/> <!-- Rocket -->
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="80"/> <!-- Programmer -->
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="80"/> <!-- Keyboard Fast -->
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="80"/> <!-- Terminal -->
+</p>
 
 
