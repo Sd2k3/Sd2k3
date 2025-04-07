@@ -119,7 +119,4 @@
   <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="80"/> <!-- Terminal -->
 </p>
 
----
 
-### 🐍 My Contribution Snake  
-![Contribution Snake](https://raw.githubusercontent.com/Sd2k3/Sd2k3/main/snake.svg)
