@@ -13,11 +13,14 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate Snake
-        uses: Platane/snk@v2
+        uses: Platane/snk@master
+        id: snake
         with:
           github_user_name: Sd2k3
-          svg_out_path: snake.svg
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Save SVG
+        run: |
+          echo "${{ steps.snake.outputs.snake_svg }}" > snake.svg
 
       - name: Commit and push
         run: |
