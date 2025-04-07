@@ -122,4 +122,4 @@
 ---
 
 ### 🐍 My Contribution Snake  
-![Snake animation](https://github.com/Sd2k3/Sd2k3/blob/output/github-contribution-grid-snake.svg)  
+![Contribution Snake](https://raw.githubusercontent.com/Sd2k3/Sd2k3/main/snake.svg)
