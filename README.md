@@ -54,12 +54,14 @@
 
 ### **📊 GitHub Stats**  
 
-<div align="center">
-  <!-- First Row: GitHub Stats and GitHub Streak side by side -->
-  <div style="display: flex; justify-content: center; width: 100%; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sd2k3&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="48%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sd2k3&theme=radical&hide_border=true" width="51%" />
-  </div>
+<!-- GitHub Stats and Streak Section -->
+<p align="center">
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sd2k3&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=Sd2k3&theme=radical&hide_border=true" />
+</p>
+
+
+
 
   <!-- Second Row: GitHub Trophies -->
   <div style="margin-top: 20px;">
