@@ -88,8 +88,22 @@
 ✨ **Proven Impact:** 89% improvement in memory recall | 72% reduction in safety incidents  
 🛠 **Tech Stack:** React, Node.js, TensorFlow, and innovative AI algorithms  
 
+---
 
 ---
+
+### 🛠️ **Currently Working On**
+
+| 🚀 Project | 🧰 Tech Stack | 🎯 Purpose |
+|-----------|--------------|------------|
+| 🧠 **Neuronest v2.0** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiBoZWlnaHQ9IjIwIiB3aWR0aD0iMjAiIHZpZXdCb3g9IjAgMCAyMCAyMCI+PHBhdGggZD0iTTUgMEgxNUMxNy43NzUgMCAyMCAyLjIyNSAyMCA1VjE1QzIwIDE3Ljc3NSAxNy43NzUgMjAgMTUgMjBINFYxNkgyMFY1QzIwIDIuMjI1IDE3Ljc3NSAwIDE1IDBINSI+PC9wYXRoPjwvc3ZnPg==) | Advanced Dementia Care with Generative AI |
+| 🔥 **STAFERB (Fire Response System)** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Animations](https://img.shields.io/badge/Animations-ff69b4?style=flat) | IoT-based Emergency Response Automation |
+| 🎯 **FaceDetector (FD) Dashboard** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) | Real-time Face Recognition & Logging |
+| 🌐 **My Portfolio Website** | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | Showcasing Skills, Projects & Resume |
+| 💸 **Blockchain Payment System** | ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white) ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat) ![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=flat&logo=metamask&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) | Secure Transactions with Decentralized Ledger |
+
+---
+
 ### 🔝 Top Contributed Repositories
 
 ![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=Sd2k3&limit=5&theme=dark&combine_all_yearly_contributions=true)
