@@ -18,7 +18,7 @@
 ---
 
 
-### **🔥 Tech Stack**  
+### **🔥Tech Stack**  
 
 <!-- Animated tech stack with icons -->
 <div align="center">
