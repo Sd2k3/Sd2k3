@@ -46,13 +46,13 @@
 
 ---
 
-### 💬 Dev Wisdom of the Day
+### 💬Dev Wisdom of the Day
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
 
-### **📊 GitHub Stats**  
+### **📊GitHub Stats**  
 
 <!-- GitHub Stats and Streak Section -->
 <p align="center">
