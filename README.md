@@ -1,6 +1,6 @@
 # **Namaste** 🙏, I'm Swarajit Dey! 
 
-**🚀 Full-Stack Developer | AI/ML & GenAI Enthusiast | IoT Explorer | UI/UX Designer | Blockchain Enthusiast**  
+**🚀Full-Stack Developer | AI/ML & GenAI Enthusiast | IoT Explorer | UI/UX Designer | Blockchain Enthusiast**  
 
 [![Email](https://img.shields.io/badge/Email-swarajit19082003%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:swarajit19082003@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Swarajit_Dey-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/swarajit-dey-758b84222/)
