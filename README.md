@@ -1,4 +1,4 @@
-# **Namaste** 🙏, I'm Swarajit Dey! 
+# **Namaste** 🙏,I'm Swarajit Dey! 
 
 **🚀Full-Stack Developer | AI/ML & GenAI Enthusiast | IoT Explorer | UI/UX Designer | Blockchain Enthusiast**  
 
